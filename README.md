@@ -81,5 +81,5 @@
         Charter	  83.5	    83.9	                90	            93	              87*
         District	77.0	    81.0	                67	            81	              54   
   ---------------------------------------------------------------------------------------------------------
-      Since Thomas High School belongs to Charter type (marked with asterisk). The trend is same as previous analysis: average scores do not change, but the passing percentage for math, reading and overall dropped as a result of data replacement.
+     Since Thomas High School belongs to Charter type (marked with asterisk). The trend is same as previous analysis: average scores do not change, but the passing percentage for math, reading and overall dropped as a result of data replacement.
   
