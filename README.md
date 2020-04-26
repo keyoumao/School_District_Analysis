@@ -25,7 +25,7 @@
 
 ##### Recalculate the high- and low-performing schools.
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools
-  See No. 2. The replacement of data does not affect other schools. Before data replacement, Thomas High School was ranked on No.2. After data replacement, Thomas High School is neither the top five or the bottom five schools based on the rankin of overall passing percentage.
+  See No. 2. The replacement of data does not affect other schools. Before data replacement, Thomas High School was ranked on No.2. After data replacement, Thomas High School is neither the top five or the bottom five schools based on the ranking of overall passing percentage.
 
 ##### Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
 4. How does replacing the ninth-grade scores affect the following?
